@@ -1,0 +1,30 @@
+{
+	"name": "shadowrun5e-ru",
+	"title": "Русская локализация Shadowrun 5e",
+	"description": "Добавляет перевод системы на русский язык согласно фанатскому переводу от двух зайцев",
+	"version": "0.55",
+	"authors": [{
+		"name": "NewSkyPes",
+		"discord": "NewSkyPes#0338"
+	}],
+	"languages": [
+		{
+			"lang": "ru",
+			"system":"shadowrun5e",
+			"name": "Russian",
+			"path": "lang/ru.json"
+		}
+	],
+	"scripts": [],
+  "styles" : [],
+  "packs": [],
+  "relationships": {},
+	"url" : "",
+	"download" : "",
+	"manifest" : "",
+    "compatibility": {
+        "minimum": "11",
+        "verified": "12",
+        "maximum": "12"
+      }
+}
